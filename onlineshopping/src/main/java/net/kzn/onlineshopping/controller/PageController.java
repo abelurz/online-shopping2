@@ -25,7 +25,7 @@ import net.kzn.shoppingbackend.dto.Product;
 public class PageController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(PageController.class);
-	
+	////aaaaaa
 	@Autowired
 	private CategoryDAO categoryDAO;
 	
